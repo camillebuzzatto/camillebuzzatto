@@ -64,16 +64,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/camillebuzzatto/camillebuzzatto/output/snake.svg" alt="Snake animation" />
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/camillebuzzatto/camillebuzzatto/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/camillebuzzatto/camillebuzzatto/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/camillebuzzatto/camillebuzzatto/output/pacman-contribution-graph.svg">
-</picture>
-
-###
