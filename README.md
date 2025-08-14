@@ -1,6 +1,7 @@
 <h2 align="left">Hi 👋! My name is Camille and I'm a developer</h2>
 
 ###
+<br> 
 
 <img align="right" height="150" src="https://i.gifer.com/Sk6w.gif"  />
 
@@ -63,6 +64,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
 </div>
+<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/camillebuzzatto/camillebuzzatto/output/pacman-contribution-graph-dark.svg">
