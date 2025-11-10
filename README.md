@@ -66,8 +66,6 @@
 </div>
 <br> <br> <br> <br> <br>
 
-<img src="https://raw.githubusercontent.com/camillebuzzatto/camillebuzzatto/output/snake.svg" alt="Snake animation" align="center" />
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/camillebuzzatto/camillebuzzatto/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/camillebuzzatto/camillebuzzatto/output/pacman-contribution-graph.svg">
